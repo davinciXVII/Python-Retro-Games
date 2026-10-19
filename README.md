@@ -1,4 +1,4 @@
-# 🕹️ Python Retro Game Launcher & Archive davinciXVII
+# 🕹️ Python Retro Game Launcher & Archive by davinciXVII
 
 Welcome to my retro game collection! This project features a custom **Tkinter-based Dashboard Launcher** that allows seamless execution of 9 different Python games. The architecture runs each game as an independent sub-process using the native `subprocess` module, ensuring strict separation of concerns, stable window management, and zero execution conflicts.
 
